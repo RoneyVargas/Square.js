@@ -110,8 +110,6 @@ Square.Game = class Game {
 						that.scene.elements[i] != this &&
 						that.scene.elements[i].__proto__ == cls.prototype) {
 							
-						let 
-
 						let a = {'x':x, 'y':y, 'w':w,'h':h};
 						let b = that.scene.elements[i];
 
