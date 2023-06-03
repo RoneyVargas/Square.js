@@ -2,4 +2,4 @@
 
 -------------------
 
-Un pequeño motor de videojuegos con Javascript.
+Un pequeño motor de videojuegos HTMl creado con Javascript.
